@@ -1,0 +1,17 @@
+﻿{
+    "StockList": [
+        {
+            "name": "Wipro",
+            "NumberOfShares": 12,
+            "SharePrice": 25000,
+            "StockPrice": 300000
+        },
+        {
+            "name": "TCS",
+            "NumberOfShares": 30,
+            "SharePrice": 10000,
+            "StockPrice": 300000
+        }
+    ],
+    "grandTotal": 600000
+}

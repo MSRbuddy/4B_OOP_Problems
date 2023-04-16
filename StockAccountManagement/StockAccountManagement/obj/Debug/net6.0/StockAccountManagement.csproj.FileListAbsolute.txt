@@ -1,0 +1,5 @@
+C:\Users\USER\source\BL\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.AssemblyInfo.cs
+C:\Users\USER\source\BL\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.csproj.CoreCompileInputs.cache
