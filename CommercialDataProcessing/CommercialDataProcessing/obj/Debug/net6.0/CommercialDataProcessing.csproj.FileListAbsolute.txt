@@ -1,0 +1,5 @@
+C:\Users\USER\source\BL\CommercialDataProcessing\CommercialDataProcessing\obj\Debug\net6.0\CommercialDataProcessing.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\CommercialDataProcessing\CommercialDataProcessing\obj\Debug\net6.0\CommercialDataProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\CommercialDataProcessing\CommercialDataProcessing\obj\Debug\net6.0\CommercialDataProcessing.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\CommercialDataProcessing\CommercialDataProcessing\obj\Debug\net6.0\CommercialDataProcessing.AssemblyInfo.cs
+C:\Users\USER\source\BL\CommercialDataProcessing\CommercialDataProcessing\obj\Debug\net6.0\CommercialDataProcessing.csproj.CoreCompileInputs.cache
