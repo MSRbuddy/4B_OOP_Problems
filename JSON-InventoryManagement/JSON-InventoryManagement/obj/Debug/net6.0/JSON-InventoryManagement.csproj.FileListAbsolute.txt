@@ -1,0 +1,5 @@
+C:\Users\USER\source\BL\JSON-InventoryManagement\JSON-InventoryManagement\obj\Debug\net6.0\JSON-InventoryManagement.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\JSON-InventoryManagement\JSON-InventoryManagement\obj\Debug\net6.0\JSON-InventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\JSON-InventoryManagement\JSON-InventoryManagement\obj\Debug\net6.0\JSON-InventoryManagement.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\JSON-InventoryManagement\JSON-InventoryManagement\obj\Debug\net6.0\JSON-InventoryManagement.AssemblyInfo.cs
+C:\Users\USER\source\BL\JSON-InventoryManagement\JSON-InventoryManagement\obj\Debug\net6.0\JSON-InventoryManagement.csproj.CoreCompileInputs.cache
